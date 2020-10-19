@@ -1,3 +1,7 @@
-Movie.class
 Customer.class
+RegularPrice.class
+NewReleasePrice.class
+ChildrensPrice.class
 Rental.class
+Movie.class
+Price.class
